@@ -28,7 +28,7 @@ class _AnimatedBackgroundState extends State<AnimatedBackground> {
 					maxWidth: double.infinity,
 					alignment: Alignment(4, 3),
 					child: Transform.rotate(
-						angle: ((math.pi / -1024) * offset),
+						angle: ((math.pi * offset) / -1024),
 						child: Icon(Icons.settings, size: 512, color: Colors.white)
 					)
 				);
