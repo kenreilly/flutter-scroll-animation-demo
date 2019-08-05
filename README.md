@@ -1,6 +1,5 @@
 ## flutter_animation_demo
-
-This is an example project to demonstrate how to create simple animations with Flutter
+Example project demonstrating how to create custom animations in Flutter
 
 ![](preview.gif)
 
