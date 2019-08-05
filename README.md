@@ -15,6 +15,3 @@ To build and run this project:
 
 ### Contributing
 Questions, comments, suggestions, and other contributions are welcome, as this is an open-source example project and not officially maintained as part of an application or library etc. 
-
-### Credits
-Project Background Photo by eberhard grossgasteiger on Unsplash
