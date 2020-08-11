@@ -14,7 +14,7 @@ class DemoCard extends StatelessWidget {
 
 		return Card(
 				
-			elevation: 3,
+			elevation: 10,
 			shape: RoundedRectangleBorder(
 				side: BorderSide(width: 1, color: Colors.black26),
 				borderRadius: BorderRadius.circular(32)
@@ -22,10 +22,10 @@ class DemoCard extends StatelessWidget {
 			color: item.color.withOpacity(.7),
 			child: Container(
 
-				constraints: BoxConstraints.expand(height: 256),
+				constraints: BoxConstraints.expand(height: 556),
 				child: RawMaterialButton(
 
-					onPressed: () {  },
+					onPressed: () { print("AAAAAA"); },
 					child: Column(
 						
 						mainAxisAlignment: MainAxisAlignment.spaceAround,
